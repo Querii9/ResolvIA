@@ -8,7 +8,7 @@ It works for IT, but the categories, teams, SLAs and guides all live in one conf
 
 No backend, no build step, no framework: HTML, CSS and vanilla JavaScript modules, hosted for free on GitHub Pages. The AI runs on **Claude, OpenAI or Gemini**, whichever you choose.
 
-**[Live demo](https://querii9.github.io/resolvia/)** · works without an API key (demo mode)
+**[Live demo](https://querii9.github.io/ResolvIA/)** · works without an API key (demo mode)
 
 ![Technician dashboard](docs/dashboard.png)
 

@@ -9,7 +9,7 @@
 export const CONFIG = {
   appName: "ResolvIA",
   author: { name: "Querià Montserrat", url: "https://github.com/Querii9" },
-  repoUrl: "https://github.com/Querii9/resolvia",
+  repoUrl: "https://github.com/Querii9/ResolvIA",
 
   // "auto" follows the browser language. Options: "auto" | "ca" | "es" | "en"
   defaultLanguage: "auto",
